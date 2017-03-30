@@ -1,4 +1,4 @@
-
+#A man page (short for manual page) is a form of online software documentation usually found on a Unix or Unix-like operating system
 #include<stdlib.h>
 #include<unistd.h>
 #include <fcntl.h>
